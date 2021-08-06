@@ -1,4 +1,4 @@
-types of constructions:
+Types of constructions:
 
 1]Declaration instruction: declare variables ex. main()
 
