@@ -43,7 +43,7 @@ in primary constant :
 
 ✨Comments:
 
-// Single line comment
+// Single line
 
-/* Multiple line comments */
+/* many line */
  
