@@ -1,6 +1,6 @@
-✨introduction
+#  ✨introduction
 
-what is c?
+- what is c?
 
 its a programming language developed by DENNIS RITCHIE at AT & T's Bell Laboratories of USA.
 
@@ -10,7 +10,7 @@ major parts of any popular operating system is written in c.
 
 its common among devices like microwave ovens, washing machine,smartphones etc etc
 
-✨steps in learning c language:
+# ✨steps in learning c language:
 
 1] alphabets, digits, special symbols
 
@@ -20,15 +20,15 @@ its common among devices like microwave ovens, washing machine,smartphones etc e
 
 4]program
 
-✨the c character :
+# ✨the c character :
 
-Aplabets - A,B.....Y,Z a,b.....y,z
+- Aplabets - A,B.....Y,Z a,b.....y,z
 
-Digits - 1,2,3,4,5,6,7,8,9
+- Digits - 1,2,3,4,5,6,7,8,9
 
-Special symbols - !,@,#,$,%,^,&,* etc
+- Special symbols - !,@,#,$,%,^,&,* etc
 
-✨c constants:
+# ✨c constants:
 
 primary constants and secondary constants:
 
@@ -40,7 +40,7 @@ in primary constant :
 
 3] character constant = single alphabet,digit or special symbole enclose within inverted commas ( both commas should be point to left Ex.'M' )
 
-✨Comments:
+# ✨Comments:
 
 // Single line
 
