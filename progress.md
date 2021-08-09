@@ -11,3 +11,6 @@ DAY 5 : Documented let us c chapter 1 on github.
 DAY 6 : Read Let Us C chapter 2 and 3 and documented it on github.
 
 DAY 7 : Conducted toastmaster demo meet ( my role was 'ah counter')
+
+DAY 8 :
+
