@@ -1,4 +1,4 @@
-# 😎Mitacs internship :
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Mitacs internship :
 Today Ankit sir gave us some information about Mitacs Intership. As we need to apply for it as soon as possible because the last application date of the application is on 22 september 2021.
 
 # What is [Mitacs Globalink Research Internship](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship)? 
