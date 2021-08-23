@@ -7,6 +7,7 @@
 >2 [What is Gmock and Gtest?](https://github.com/google/googletest/blob/master/googlemock/README.md)
 
 --------------------------------------------------------------------------------------------------
+
 >3 [Why we need specific pointer?](https://stackoverflow.com/questions/162941/why-use-pointers)
 
 -----------------------------------------------------------------------------------------------------
@@ -14,6 +15,7 @@
 >4 [How int and float values are stored in bytes?](https://www.log2base2.com/storage/how-float-values-are-stored-in-memory.html)
 
 --------------------------------------------------------------------------------------------------------------------------------
+
 >5 [Computer Memory?](http://statmath.wu.ac.at/courses/data-analysis/itdtHTML/node55.html)
 
 ---------------------------------------------------------------------------------------------------
