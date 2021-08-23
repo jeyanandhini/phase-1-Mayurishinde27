@@ -1,95 +1,96 @@
 # ⌚ DAILY PROGRESS :
 
+- [x] AUGUST
 --------------------------------------------------------------------------------------------------------------
-**DAY 1 :** [Toastmaster](https://franticallyspeaking.com/toastmasters-executive-committee-roles-and-responsibilities)
+- **DAY 1 :** [Toastmaster](https://franticallyspeaking.com/toastmasters-executive-committee-roles-and-responsibilities)
 
 ----------------------------------------------------------------------------------------------------------------------
 
-**DAY 2 :** just read about toastmaster and their respectative roles.
+- **DAY 2 :** just read about toastmaster and their respectative roles.
 
 ---------------------------------------------------------------------
 
-**DAY 3 :** [Opensource](https://opensource.guide/)
+- **DAY 3 :** [Opensource](https://opensource.guide/)
 
 ---------------------------------------------------
 
-**DAY 4 :** started reading let us c. completed chapter 1,2 and 3.
+- **DAY 4 :** started reading let us c. completed chapter 1,2 and 3.
 
 -----------------------------------------------------------------
 
-**DAY 5 :** Documented let us c chapter 1 on github.
+- **DAY 5 :** Documented let us c chapter 1 on github.
 
 ----------------------------------------------------
 
-**DAY 6 :** Read Let Us C chapter 2 and 3 and documented it on github.
+- **DAY 6 :** Read Let Us C chapter 2 and 3 and documented it on github.
 
 ---------------------------------------------------------------------
 
-**DAY 7 :** Conducted AlgoMagnet demo meet ( my role was 'ah counter')
+- **DAY 7 :** Conducted AlgoMagnet demo meet ( my role was 'ah counter')
 
 -----------------------------------------------------------------------
 
-**DAY 8 :** off
+- **DAY 8 :** off
 
 -----------------------------------------------------------------------
 
-**DAY 9 :** gone through [1's and 2's complement](https://www.geeksforgeeks.org/1s-2s-complement-binary-number/)
+- **DAY 9 :** gone through [1's and 2's complement](https://www.geeksforgeeks.org/1s-2s-complement-binary-number/)
 
 -----------------------------------------------------------------------
 
-**DAY 10:** [jacob sorbar assembly langauge](https://www.youtube.com/watch?v=iYRl50gtprA)
+- **DAY 10:** [jacob sorbar assembly langauge](https://www.youtube.com/watch?v=iYRl50gtprA)
 
 -----------------------------------------------------------------------
 
-**DAY 11 :** revised pointers.
+- **DAY 11 :** revised pointers.
 
 -----------------------------------------------------------------------
 
-**DAY 12 :** try some pointer questions which sir has given
+- **DAY 12 :** try some pointer questions which sir has given
 
 -----------------------------------------------------------------------
 
-**DAY 13 :** revised function.
+- **DAY 13 :** revised function.
 
 -----------------------------------------------------------------------
 
-**DAY 14 :** 
+- **DAY 14 :** 
 
 -----------------------------------------------------------------------
 
-**DAY 15 :** off
+- **DAY 15 :** off
 
 ----------------------------------------------------------------------
 
-**DAY 16 :** Successfully Conducted Second AlgoMagnet session ( my role was 'speech evaluator')
+- **DAY 16 :** Successfully Conducted Second AlgoMagnet session ( my role was 'speech evaluator')
 
 -----------------------------------------------------------------------
 
-**DAY 17 :**  revision of  pointers and Did Documentation and updated repository from beginning.
+- **DAY 17 :**  revision of  pointers and Did Documentation and updated repository from beginning.
 
 -----------------------------------------------------------------------
 
-**DAY 18 :** Research about [ Mitacs summer internship](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship)
+- **DAY 18 :** Research about [ Mitacs summer internship](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship)
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-**DAY 19 :** 
+- **DAY 19 :** 
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-**DAY 20 :**
+- **DAY 20 :**
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-**DAY 21 :** 
+- **DAY 21 :** 
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-**DAY 22 :** 
+- **DAY 22 :** 
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-**DAY 23 :** Started Arrays.
+- **DAY 23 :** Started Arrays And Microprocessor.
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
