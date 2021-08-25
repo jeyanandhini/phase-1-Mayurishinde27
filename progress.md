@@ -93,7 +93,10 @@
 - **DAY 23 :** Started Arrays And [Microprocessor](https://en.wikipedia.org/wiki/Microprocessor)
 
 -----------------------------------------------------------------------------------------------------------------------------------
+- **DAY 24 :** [Intro to Arrays](https://www.geeksforgeeks.org/introduction-to-arrays/)
 
+-----------------------------------------------------------------------------------------
+- **DAY 25 :** lecture1 [Microprocessor](https://www.youtube.com/watch?v=Xl2nWDcy0To)
 
 
 
