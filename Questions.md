@@ -14,12 +14,15 @@
 > [what is API?](https://en.wikipedia.org/wiki/API)
 
 -----------------------------------------------------------------------------------------------
->[what happens when i compile my c program?](https://www.geeksforgeeks.org/compiling-a-c-program-behind-the-scenes/)
+> [what happens when i compile my c program?](https://www.geeksforgeeks.org/compiling-a-c-program-behind-the-scenes/)
 
 --------------------------------------------------------------------------------------------------------------
 > what is [vi](https://en.wikipedia.org/wiki/Vi) and [Vim editor?](https://en.wikipedia.org/wiki/Vim_(text_editor))
 
 ----------------------------------------------------------------------------------------------------------
+> [where printf function is written?](https://www.techonthenet.com/c_language/standard_library_functions/stdio_h/printf.php)
+
+----------------------------------------------------------------------------------------------------------------------
 
 > [What is dereferencing in pointer?](https://en.wikipedia.org/wiki/Dereference_operator)
 -----------------------------------------------------------------------------------------------
