@@ -1,5 +1,6 @@
-# QUESTIONS 🤔
 
+## <p align="center"> <b> QUESTIONS 🤔 </b> </p> 
+--------------------------------------------------------
 
 > [what is MingW?](https://en.wikipedia.org/wiki/MinGW)
 
