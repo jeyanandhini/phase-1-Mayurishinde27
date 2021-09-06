@@ -106,11 +106,14 @@
 - **DAY 27 :** Did dry run
 -----------------------------------------------------------------------------------------
 
+- **DAY 28 :** visualization on sorting algorithm [visualgo](https://visualgo.net/en/sorting?slide=1)
+--------------------------------------------------------------------------------------------------
 
 
+- [x] SEPTEMBER
 
-
-
+---------------------------------------------------------------------------------------------
+- **DAY 1 :** [Started 2D Arrays ](https://www.geeksforgeeks.org/multidimensional-arrays-c-cpp/)
 
 
 
