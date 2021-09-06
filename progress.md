@@ -113,7 +113,7 @@
 - [x] SEPTEMBER
 
 ---------------------------------------------------------------------------------------------
-- **DAY 1 :** [Started 2D Arrays ](https://www.geeksforgeeks.org/multidimensional-arrays-c-cpp/)
+- **DAY 1 :** learn some basics about [2D Arrays ](https://www.geeksforgeeks.org/multidimensional-arrays-c-cpp/)
 
 
 
