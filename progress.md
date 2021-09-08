@@ -46,7 +46,7 @@ and documented it on github.
 
 -----------------------------------------------------------------------
 
-- **DAY 12 :** Tried some [pointer questions]() which sir has given.
+- **DAY 12 :** Tried some [pointer questions](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Let%20us%20c/Pointers.pdf) which sir has given.
 
 -----------------------------------------------------------------------
 
