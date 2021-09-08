@@ -14,7 +14,7 @@
 
 ---------------------------------------------------
 
-- **DAY 4 :** started reading let us c. completed chapter 1, 
+- **DAY 4 :** started reading let us c. completed chapter 1,2 and 3.
 -----------------------------------------------------------------
 
 - **DAY 5 :** Documented let us c chapter [1](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Let%20us%20c/chapter%201.md)  on github.
@@ -46,7 +46,7 @@ and documented it on github.
 
 -----------------------------------------------------------------------
 
-- **DAY 12 :** Tried some pointer questions which sir has given.
+- **DAY 12 :** Tried some [pointer questions]() which sir has given.
 
 -----------------------------------------------------------------------
 
@@ -112,7 +112,7 @@ and documented it on github.
 - **DAY 29 :** Weekend break.
 
 ---------------------------------------------------------------------------------------------------
- **DAY 30 :** visualization on sorting algorithm [visualgo](https://visualgo.net/en/sorting?slide=1)
+- **DAY 30 :** visualization on sorting algorithm [visualgo](https://visualgo.net/en/sorting?slide=1)
  
  --------------------------------------------------------------------------------------------------
 
