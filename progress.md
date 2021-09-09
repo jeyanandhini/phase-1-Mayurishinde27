@@ -128,7 +128,7 @@ and documented it on github.
 - **DAY 33 :** [Started 3D Arrays](https://iq.opengenus.org/3d-array-in-c/)
 
 -------------------------------------------------------------------------------------------------------------------------------
-
+- **DAY 34 :** Started Strings  
 
 
 
