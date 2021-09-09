@@ -7,4 +7,12 @@
 ---------------------------------------------------------------------------------------------------------
 - [x] [jacob sorber assembly language](https://www.youtube.com/watch?v=iYRl50gtprA)
 
+-------------------------------------------------------------------------------------------------
+
+- [x] [How Dynamic Memory Works](https://www.youtube.com/watch?v=0A1e8eceIsY)
+
 ---------------------------------------------------------------------------------------------------
+- [x] [How Computer Memory Works](https://www.youtube.com/watch?v=XETZoRYdtkw)
+
+
+
