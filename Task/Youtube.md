@@ -14,5 +14,9 @@
 ---------------------------------------------------------------------------------------------------
 - [x] [How Computer Memory Works](https://www.youtube.com/watch?v=XETZoRYdtkw)
 
+----------------------------------------------------------------------------------------
+
+- [x] [Amit Sharma, inauguration of PGP 2019-21 at IIMB](https://www.youtube.com/watch?v=Rs7MarDeLmU)
+
 
 
