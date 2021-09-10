@@ -128,7 +128,11 @@ and documented it on github.
 - **DAY 33 :** [Started 3D Arrays](https://iq.opengenus.org/3d-array-in-c/)
 
 -------------------------------------------------------------------------------------------------------------------------------
-- **DAY 34 :** Started Strings  
+- **DAY 34 :** Started [Strings](https://en.cppreference.com/w/cpp/string/basic_string)
 
+------------------------------------------------------------------------------------------------------------------------------
+- **DAY 35 :** Started [Structure](https://en.cppreference.com/w/c/language/struct)  
+
+---------------------------------------------------------------------------------------------
 
 
