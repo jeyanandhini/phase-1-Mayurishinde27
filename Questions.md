@@ -79,7 +79,7 @@
   > ✔ [What is Calloc malloc and realloc Function](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)
 
 -----------------------------------------------------------------------------------------------------------------------------------
--  > ✔ [What is Agile methodology and Scrum](https://www.cprime.com/resources/what-is-agile-what-is-scrum/)🤔
+ > ✔ [What is Agile methodology and Scrum](https://www.cprime.com/resources/what-is-agile-what-is-scrum/)🤔
 
 -------------------------------------------------------------------------------------------------------------------------------
 
