@@ -140,8 +140,8 @@ and documented it on github.
 -----------------------------------------------------------------------------------------
 - **DAY 38 :** [Read about Calloc malloc and realloc Function](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)
 -------------------------------------------------------------------------------------------------------------------------------------
-- **DAY 39 :**   [Read about Agile methodology and Scrum](https://www.cprime.com/resources/what-is-agile-what-is-scrum/)🤔
- > [GitHub issues ](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)💡
- > [GSOC](https://summerofcode.withgoogle.com/)☀ 
+- **DAY 39 :**  [Read about Agile methodology and Scrum](https://www.cprime.com/resources/what-is-agile-what-is-scrum/)🤔
+ - [GitHub issues ](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)💡
+ - [GSOC](https://summerofcode.withgoogle.com/)☀ 
                
 --------------------------------------------------------------------------------------------------------------------------------------
