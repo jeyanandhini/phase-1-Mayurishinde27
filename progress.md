@@ -141,10 +141,11 @@ and documented it on github.
 - **DAY 38 :** [Read about Calloc malloc and realloc Function](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)
 -------------------------------------------------------------------------------------------------------------------------------------
 - **DAY 39 :**  [Read about Agile methodology and Scrum](https://www.cprime.com/resources/what-is-agile-what-is-scrum/)🤔
- - [GitHub issues ](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)💡
- - [GSOC](https://summerofcode.withgoogle.com/)☀ 
+  - [GitHub issues ](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)💡
+  - [GSOC](https://summerofcode.withgoogle.com/)☀ 
                
 --------------------------------------------------------------------------------------------------------------------------------------
 - **DAY 40 :**  [Algomagnet Session with Alumni at Baconni University Italy](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/AlgoMagnet%20session%20Baconni%20University%20Italy/First%20session.md) ⛳
 --------------------------------------------------------------------------------------------------------------------------------
 - **DAY 41 :** [Read about GitHub issues ](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)💡
+  - [Read about Opensource](https://opensource.guide/)📖 
