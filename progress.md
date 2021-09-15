@@ -145,6 +145,6 @@ and documented it on github.
  - [GSOC](https://summerofcode.withgoogle.com/)☀ 
                
 --------------------------------------------------------------------------------------------------------------------------------------
-- **DAY 40 :**  Algomagnet Session Alumni at Baconni University Italy ⛳
+- **DAY 40 :**  [Algomagnet Session with Alumni at Baconni University Italy](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/AlgoMagnet%20session%20Baconni%20University%20Italy/First%20session.md) ⛳
 --------------------------------------------------------------------------------------------------------------------------------
 - **DAY 41 :** [Read about GitHub issues ](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)💡
