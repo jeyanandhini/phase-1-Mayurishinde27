@@ -151,4 +151,6 @@ and documented it on github.
   - Read about [Opensource](https://opensource.guide/)📖
 --------------------------------------------------------------------------------------------------------------------------------
 - **DAY 42 :** [Just completed Reading Quickstart on github](https://docs.github.com/en/get-started)✔
+--------------------------------------------------------------------------------------------------------------------------------
 
+- **DAY 43 :** Read about [Notion](https://en.wikipedia.org/wiki/Notion_(productivity_software))📖
