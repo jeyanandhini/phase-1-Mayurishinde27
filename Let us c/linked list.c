@@ -24,5 +24,21 @@ int main()
 	temp1-> data = 11;
 	temp1-> next = NULL;
 	
+	struct node* temp2;
+	temp2 = (struct node*)malloc(sizeof(struct node));
+	temp2-> data = 17;
+	temp2-> next = NULL;
+	
+    printf(" %d \n" , temp->data, temp);
+    printf(" %d \n" , temp1->data, temp1);
+    printf(" %d \n", temp2->data, temp2);
+   
+    
 	return 0;
 }
+
+# OUTPUT:
+
+ 10
+ 11
+ 17
