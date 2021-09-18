@@ -82,5 +82,4 @@
  > ✔ [What is Agile methodology and Scrum](https://www.cprime.com/resources/what-is-agile-what-is-scrum/)🤔
 
 -------------------------------------------------------------------------------------------------------------------------------
-
-
+> ✔ [Why do people use indexing?](https://mbe.modelica.university/behavior/arrays/indexing/)
