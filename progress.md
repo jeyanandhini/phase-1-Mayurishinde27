@@ -156,3 +156,6 @@ and documented it on github.
 - **DAY 43 :** Read about [Notion](https://en.wikipedia.org/wiki/Notion_(productivity_software))📖
 --------------------------------------------------------------------------------------------------------
 - **DAY 44 :** Started [Linked list](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Let%20us%20c/linked%20list.c)
+
+----------------------------------------------------------------------------------------------------------------------------------
+- **DAY 45 :** Weekend break ◀
