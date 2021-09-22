@@ -164,4 +164,10 @@ and documented it on github.
 - **DAY 46 :** [Algomagnet Session By Analyst at Goldman Sachs](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Algomagnet%20Rajat%20mittal%20sir%2019-09-2021/Analyst%20at%20Goldman%20Sachs.md) ⛳
 -------------------------------------------------------------------------------------------------------------------------------
 - **DAY 47 :** [linked list insertion and deletion](https://www.geeksforgeeks.org/linked-list-set-2-inserting-a-node/)
--------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
