@@ -9,7 +9,6 @@ struct node
 	struct node* next;
 };
 
-
 int main()
 {
 	struct node* head;
