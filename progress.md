@@ -165,7 +165,16 @@ and documented it on github.
 -------------------------------------------------------------------------------------------------------------------------------
 - **DAY 47 :** [linked list insertion and deletion](https://www.geeksforgeeks.org/linked-list-set-2-inserting-a-node/)
 --------------------------------------------------------------------------------------------------------------------
+- **DAY 48 :** [Tried code on simple linked list](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Problems/Create%20Linked%20list.c)🖇
 
+------------------------------------------------------------------------------------------------------------------------
+- **DAY 49 :** [Read About Chatbot?](https://bigdata-madesimple.com/how-do-chatbots-work-an-overview-of-the-architecture-of-a-chatbot/)📲
+
+-----------------------------------------------------------------------------------------------------------------------
+- **DAY 50 :** [Tried code on Insertion in Linked list](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Problems/Insertion%20in%20Linked%20List.c)🔗
+
+-------------------------------------------------------------------------------------------------------------------------------------
+ - **DAY 51 :** [Cycle Detection Algorithm](https://en.wikipedia.org/wiki/Cycle_detection)🔁 
 
 
 
