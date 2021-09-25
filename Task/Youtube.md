@@ -18,5 +18,9 @@
 
 - [x] [Amit Sharma, inauguration of PGP 2019-21 at IIMB](https://www.youtube.com/watch?v=Rs7MarDeLmU)
 
+-----------------------------------------------------------------------------------------------------------
+
+- [x] [Steve Jobs Stanford Commencement Speech 2005](https://www.youtube.com/watch?v=D1R-jKKp3NA)
+
 
 
