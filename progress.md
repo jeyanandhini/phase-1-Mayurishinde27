@@ -1,6 +1,7 @@
-# ⌚ DAILY PROGRESS :
 
-- [x] AUGUST📆
+# <p align="center"> <b>  ⌚ DAILY PROGRESS :  </b> </p> 
+
+- [x] **AUGUST📆**
 --------------------------------------------------------------------------------------------------------------
 - **DAY 1 :** [Toastmaster](https://franticallyspeaking.com/toastmasters-executive-committee-roles-and-responsibilities)
 
@@ -116,7 +117,7 @@ and documented it on github.
  
  --------------------------------------------------------------------------------------------------
 
-- [x] SEPTEMBER 📅
+- [x] **SEPTEMBER 📅**
 
 ---------------------------------------------------------------------------------------------
 - **DAY 31 :** Started 2D Arrays and learn some basics about [2D Arrays ](https://www.geeksforgeeks.org/multidimensional-arrays-c-cpp/)
