@@ -1,3 +1,5 @@
+INSERT AT BEGINNING, AT POSITION AND AT END:
+
 #include<stdio.h>
 #include<malloc.h>
 
