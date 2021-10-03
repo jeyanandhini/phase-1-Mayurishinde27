@@ -201,8 +201,11 @@ and documented it on github.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - **DAY 59 :** Searched about [Hashing](https://en.wikipedia.org/wiki/Hash_function) and wathched [Hashing Algorithms and Security](https://www.youtube.com/watch?v=b4b8ktEV4Bg) 💻
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+- **DAY 60 :** Did some research about [Hacktoberfest2021](https://hacktoberfest.digitalocean.com/) and started contributing.🎊
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- **DAY 61 :** Merged First 4 PR on Hacktoberfest2021
+  - Conducted AlgoMagnet session 🧲
 
 
 
