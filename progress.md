@@ -204,8 +204,7 @@ and documented it on github.
 - **DAY 60 :** Did some research about [Hacktoberfest2021](https://hacktoberfest.digitalocean.com/) and started contributing.🎊
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- **DAY 61 :** Merged First 4 PR on [Hacktoberfest2021](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Internship/Hacktoberfest.md)
+- **DAY 61 :** Merged First 4 PR on [Hacktoberfest2021](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Open%20Source/Hacktoberfest.md)
   - Conducted AlgoMagnet session 🧲
-
 
 
