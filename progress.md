@@ -11,18 +11,18 @@
 
 ---------------------------------------------------------------------
 
-- **DAY 3 :** [Opensource](https://opensource.guide/)
+- **DAY 3 :** Read about what is [Opensource](https://opensource.guide/)
 
 ---------------------------------------------------
 
 - **DAY 4 :** started reading let us c. completed chapter 1,2 and 3.
 -----------------------------------------------------------------
 
-- **DAY 5 :** Documented let us c chapter [1](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Let%20us%20c/chapter%201.md)  on github.
+- **DAY 5 :** Documented let us c [chapter 1](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Let%20us%20c/chapter%201.md)  on github.
 
 ----------------------------------------------------
 
-- **DAY 6 :** Read Let Us C chapter [2](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Let%20us%20c/chapter%202.md) and [3](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Let%20us%20c/chapter%203.md)
+- **DAY 6 :** Read Let Us C [chapter 2](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Let%20us%20c/chapter%202.md) and [3](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Let%20us%20c/chapter%203.md)
 and documented it on github.
 
 ---------------------------------------------------------------------
