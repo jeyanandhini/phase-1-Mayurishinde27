@@ -206,5 +206,6 @@ and documented it on github.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - **DAY 61 :** Merged First 4 PR on [Hacktoberfest2021](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Open%20Source/Hacktoberfest.md)
   - Conducted AlgoMagnet session 🧲
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+- **DAY 62 :** [Hashing lecture 1](https://www.youtube.com/watch?v=vKKBq5JvPrw) 🎞
 
