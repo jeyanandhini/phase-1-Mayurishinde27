@@ -187,7 +187,7 @@ and documented it on github.
 - **DAY 55 :** [Doubly Linked list](https://en.wikipedia.org/wiki/Doubly_linked_list)🔗
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- **DAY 56 :** [Linked List insertion at beginning at poaition and at end:](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Problems/insertion.c) 👩‍💻
+- **DAY 56 :** [Linked List insertion at beginning at position and at end:](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Problems/insertion.c) 👩‍💻
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 - **DAY 57 :** [Search about Overleaf🍃](https://en.wikipedia.org/wiki/Overleaf#:~:text=www.overleaf.com,templates%2C%20and%20direct%20submission%20links.)
