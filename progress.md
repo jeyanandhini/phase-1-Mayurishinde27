@@ -209,3 +209,11 @@ and documented it on github.
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 - **DAY 62 :** [Hashing lecture 1](https://www.youtube.com/watch?v=vKKBq5JvPrw) 🎞
 
+--------------------------------------------------------------------------------------------------------------------------------
+- **DAY 63 :** Inserting the numbers in [2D Arrays](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Problems/Array/2D%20Array.c)📦
+
+-------------------------------------------------------------------------------------------------------------------------------
+- **DAY 64 :** [Tried Code for Spiral Traversal In Array](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Problems/Array/Spiral%20traversal%20in%20array.c)🕸
+
+
+
