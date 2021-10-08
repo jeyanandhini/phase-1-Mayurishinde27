@@ -171,6 +171,7 @@ and documented it on github.
 
 ------------------------------------------------------------------------------------------------------------------------
 - **DAY 49 :** [Read About Chatbot?](https://bigdata-madesimple.com/how-do-chatbots-work-an-overview-of-the-architecture-of-a-chatbot/)📲
+  - [Outreachy internship program](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Open%20Source/Outreachy.md)🎨
 
 -----------------------------------------------------------------------------------------------------------------------
 - **DAY 50 :** [Tried code on Insertion in Linked list](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Problems/Insertion%20in%20Linked%20List.c)🔗
