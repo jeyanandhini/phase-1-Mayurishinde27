@@ -216,5 +216,7 @@ and documented it on github.
 -------------------------------------------------------------------------------------------------------------------------------
 - **DAY 64 :** [Tried Code for Spiral Traversal In Array](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Problems/Array/Spiral%20traversal%20in%20array.c)🕸
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+- **DAY 65 :** Gone through [Minesweeper project](https://ankitkeshavdbg.github.io/MineSweeper/) stage 1 ⚒
 
 
