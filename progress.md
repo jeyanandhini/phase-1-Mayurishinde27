@@ -1,7 +1,8 @@
 
 # <p align="center"> <b>  ⌚ DAILY PROGRESS :  </b> </p> 
 
-- [x] **AUGUST📆**
+  |  ✔ **AUGUST📆** 
+  |------------------                  
 --------------------------------------------------------------------------------------------------------------
 - **DAY 1 :** [Toastmaster](https://franticallyspeaking.com/toastmasters-executive-committee-roles-and-responsibilities)
 
@@ -116,8 +117,8 @@ and documented it on github.
 - **DAY 30 :** visualization on sorting algorithm [visualgo](https://visualgo.net/en/sorting?slide=1)
  
  --------------------------------------------------------------------------------------------------
-
-- [x] **SEPTEMBER 📅**
+|  ✔ **SEPTEMBER 📅**
+|--------------------- 
 
 ---------------------------------------------------------------------------------------------
 - **DAY 31 :** Started 2D Arrays and learn some basics about [2D Arrays ](https://www.geeksforgeeks.org/multidimensional-arrays-c-cpp/)
@@ -193,8 +194,8 @@ and documented it on github.
 - **DAY 57 :** [Search about Overleaf🍃](https://en.wikipedia.org/wiki/Overleaf#:~:text=www.overleaf.com,templates%2C%20and%20direct%20submission%20links.)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-- [x] **OCTOBER📆**
+|  ✔ **OCTOBER📆**
+|--------------------- 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 - **DAY 58 :** Got to know about [Hacktoberfest](https://hacktoberfest.digitalocean.com/) 🖼
