@@ -1,7 +1,10 @@
 
+-------------------------------------------------------------------------------------------------------------------------
 
-| OCTOBER 👨‍💻  |
-|-------|
+  |  OCTOBER 👨‍💻  |  
+  |--------------|
+
+-------------------------------------------------------------------------------------------------------------------------
 
 |  📆  | Accuracy | Typing Speed |
 |------|----------|---------------|
@@ -10,3 +13,5 @@
 | [DAY3](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Typing%20Speed/Speed/9oct2021.md)  | 92%  |27wpm
 | [DAY4](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Typing%20Speed/Speed/10oct2021.md) | 94%  |25wpm
 | [DAY5](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Typing%20Speed/Speed/11oct2021.md) | 96%  |28wpm
+| [DAY6](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Typing%20Speed/Speed/12oct2021.md) | 93%  |29wpm
+
