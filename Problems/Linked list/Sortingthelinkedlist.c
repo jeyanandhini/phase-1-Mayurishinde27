@@ -61,12 +61,10 @@ print()
 	{
 		printf("%d ", run->data);
 		run=run->next;
-		if (run!=NULL){
-				printf("->");
-			
+		if (run!=NULL)
+		{
+		    printf("->");
 		}
-	   
-
 	}
 	
 	printf("\n");
