@@ -74,8 +74,8 @@ print()
 
 void main()
 {
-	insertbeg(4);
 	insertbeg(5);
+	insertbeg(4);
 	insertbeg(1);
 	insertbeg(2);
 	insertbeg(3);
@@ -87,16 +87,15 @@ void main()
 	print(); 
 	sort();
 	print(); 
-	sort();
-	print(); 
+
 
 }
 
 #OUTPUT:
 
 Given linked list
-3 ->2 ->1 ->5 ->4
+3 ->2 ->1 ->4 ->5
 After sorting the linked list
-2 ->1 ->3 ->5 ->4
-1 ->2 ->3 ->5 ->4
-1 ->2 ->3 ->5 ->4
+2 ->1 ->3 ->4 ->5
+1 ->2 ->3 ->4 ->5
+
