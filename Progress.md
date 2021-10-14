@@ -230,3 +230,6 @@ and documented it on github.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 - **DAY 69 :** Did the code for [Sorting the linked list](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Problems/Linked%20list/Sortingthelinkedlist.c)🔗
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- **DAY 70  :** Gone through the [selection sort in arrays](https://www.javatpoint.com/selection-sort) 🔢
