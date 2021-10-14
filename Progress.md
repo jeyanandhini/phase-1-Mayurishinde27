@@ -226,7 +226,7 @@ and documented it on github.
 
 - **DAY 67 :** Weekend break ◀
 ------------------------------------------------------------------------------------------------------------------------------
-- **DAY 68 :** Started working on [typing speed](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Typing%20Speed/Daily%20progress.md) in [Thetypingcat](https://thetypingcat.com/typing-speed-test-result/1m/1/29/93) 🐱‍👤
+- **DAY 68 :** Started working on [typing speed](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Typing%20Speed/Daily%20progress.md) at [Thetypingcat](https://thetypingcat.com/) 🐱‍👤
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 - **DAY 69 :** Did the code for [Sorting the linked list](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Problems/Linked%20list/Sortingthelinkedlist.c)🔗
