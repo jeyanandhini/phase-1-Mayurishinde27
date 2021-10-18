@@ -239,5 +239,5 @@ and documented it on github.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - **DAY 72 :** Weekend break ◀
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- **DAY 73 :** Completed [Hacktoberfest2021](https://hacktoberfest.digitalocean.com/) 💌
+- **DAY 73 :** Completed [Hacktoberfest2021](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Open%20Source/Hacktoberfest.md) 💌
 
