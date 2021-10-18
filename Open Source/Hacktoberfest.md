@@ -23,9 +23,20 @@ the first 55,000 participants to have submitted at least 4 accepted pull request
 
 ```
 
+---------------------------------------------------------------------------------------------------------------------------
+`SWAG PACK🎁:`
+- [x] Hacktoberfest 2021 T-Shirt 
+- [x] [DEV](https://dev.to/) Hacktoberfest Badge
+
+----------------------------------------------------------------------------------------------------------------
+
 ###  📀[To Apply for Hacktoberfest](https://hacktoberfest.digitalocean.com/)
---------------------------------------------------------------------------
-#### 💿[ How One Can Take Participate in Hactoberfest?](https://www.geeksforgeeks.org/what-is-hactoberfest-and-how-one-can-take-participate-in-it/)
+
+### 🔆[What is Hacktoberfest?](https://medium.com/analytics-vidhya/what-is-hacktoberfest-hacktoberfest-101-3269630183c)
+
+### 💿[ How One Can Take Participate in Hactoberfest?](https://www.geeksforgeeks.org/what-is-hactoberfest-and-how-one-can-take-participate-in-it/)
+
+
 
 
 
