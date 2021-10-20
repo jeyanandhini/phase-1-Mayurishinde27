@@ -6,7 +6,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------
 
-|  📆  | Accuracy | Typing Speed |
+|  📆  | `Accuracy `| `Typing Speed` |
 |------|----------|---------------|  
 | [DAY1](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Typing%20Speed/Speed/7oct2021.md)  | 96% |25wpm
 | [DAY2](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Typing%20Speed/Speed/8oct2021.md)  | 93% |25wpm
