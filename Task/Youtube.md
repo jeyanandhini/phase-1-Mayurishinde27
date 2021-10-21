@@ -25,6 +25,7 @@
 
 - [x] [Hashing Algorithms and Security - Computerphile](https://www.youtube.com/watch?v=b4b8ktEV4Bg) 👨‍💻
 ---------------------------------------------------------------------------------------------------------------
+- [x] [Hashing lecture by ankit sir](https://www.youtube.com/watch?v=vKKBq5JvPrw) 👨‍🎓
 
 
 
