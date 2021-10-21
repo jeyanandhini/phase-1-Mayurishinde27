@@ -246,3 +246,11 @@ and documented it on github.
   - Know about API development platform i.e [Postman](https://www.postman.com/company/about-postman/) 📫
  
  ------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+- **DAY 75 :** Watched lecture on [Hashing](https://www.youtube.com/watch?v=vKKBq5JvPrw) 🎢
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+- **DAY 76 :** Read about [Image processing](https://en.wikipedia.org/wiki/Digital_image_processing) 🖼 
+  - [How one can create an API?](https://blog.stoplight.io/how-to-create-an-api-in-three-steps) 💾
+--------------------------------------------------------------------------------------------------------------------------------------------------
+- **DAY 77 :** Did [Bubblesort in array](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Problems/Sorting/Bubblesortarray.c)🎈
