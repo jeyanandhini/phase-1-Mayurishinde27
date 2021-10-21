@@ -254,4 +254,4 @@ and documented it on github.
   - [How one can create an API?](https://blog.stoplight.io/how-to-create-an-api-in-three-steps) 💾
 --------------------------------------------------------------------------------------------------------------------------------------------------
 - **DAY 77 :** Did [Bubblesort in array](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Problems/Sorting/Bubblesortarray.c)🎈
-  - Completed [learning how to learn Week 1](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) 🔖📖 
+  - Completed [learning how to learn Week 1](https://www.coursera.org/learn/learning-how-to-learn) 🔖📖 
