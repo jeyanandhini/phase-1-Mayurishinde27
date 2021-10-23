@@ -260,4 +260,7 @@ and documented it on github.
 - **DAY 78 :** Did [Insertion Sort in Array](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Problems/Sorting/InsertionSortArray.c) 🐌
   - And also tried [Selection Sort in Array](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Problems/Sorting/SelectionsortArray.c) 😎
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+- **DAY 79 :** Got to know about [Counting Sort](https://www.programiz.com/dsa/counting-sort) 🎳
+  - [Plane Sweep Algorithm](https://en.wikipedia.org/wiki/Sweep_line_algorithm) and it's [Pdf by niser](https://www.niser.ac.in/~aritra/PlaneSweepAlgorithm.pdf) 🏫
 
