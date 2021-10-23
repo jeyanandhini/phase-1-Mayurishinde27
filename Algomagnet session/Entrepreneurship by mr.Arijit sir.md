@@ -1,15 +1,4 @@
 
-# <p align="center"> <b> Entrepreneurship by Arijit Senchaudhuri sir 📩 </b> </p>
-  
-
-
----------------------------------------------------------------------------
-> NIT Agartala Alumni of batch 1993 🥇
-
-> Director of [VIS GLOBAL Pty Ltd](http://visglobal.sg/). 🧧
-
-> Co-Founder and COO of [DATAGAMZ](https://datagamz.com/) 🎰
-
 
 
 
