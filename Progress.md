@@ -1,11 +1,7 @@
 
 # <p align="center"> <b>  ⌚ DAILY PROGRESS :  </b> </p> 
 
-   * **[August](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Progress.md#--AUGUST-)**
-   * **[September](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Progress.md#--SEPTEMBER-)**
-   * **[October](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Progress.md#--OCTOBER-)**
 
--------------------------------------------------------------------------------------------------------------
 
   |  ✔ **AUGUST📆** 
   |------------------                  
