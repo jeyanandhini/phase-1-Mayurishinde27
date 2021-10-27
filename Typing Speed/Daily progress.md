@@ -6,7 +6,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------
 
-|  📆  | `Accuracy `| `Typing Speed` | 
+|  📆  | `Accuracy `| `Typing Speed` |  
 |------|----------|---------------|  
 | [DAY1](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Typing%20Speed/Speed/7oct2021.md)  | 96% |25wpm
 | [DAY2](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Typing%20Speed/Speed/8oct2021.md)  | 93% |25wpm
@@ -28,6 +28,8 @@
 | [DAY18](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Typing%20Speed/Speed/24oct2021.md) | 95% |33wpm
 | [DAY19](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Typing%20Speed/Speed/25oct2021.md) | 94% |34wpm
 | [DAY20](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Typing%20Speed/Speed/26oct2021.md) | 95% |36wpm
+| [DAY21](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Typing%20Speed/Speed/27oct2021.md) | 93% |34wpm
+
 
 
 
