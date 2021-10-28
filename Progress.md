@@ -277,17 +277,17 @@ and documented it on github.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 - **DAY 83 :**  Weekend break ◀
+  - Research all about [Outreachy internship programm](https://www.outreachy.org/docs/applicant/#what-is-free-software)✨
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 - **DAY 84 :**  Read about [LaTeX](https://en.wikipedia.org/wiki/LaTeX) 🖋
   - Research about what is [H-index](https://en.wikipedia.org/wiki/H-index) 📚
 
 --------------------------------------------------------------------------------------------------------------------
-- **DAY 85 :** Research all about [Outreachy internship programm](https://www.outreachy.org/docs/applicant/#what-is-free-software)✨
+- **DAY 85 :** [Revise C upto Function](https://github.com/cleanhand/phase-1-Mayurishinde27/tree/main/Let%20us%20c) 🎢
   - Started learning some basic [c++](https://www.udacity.com/course/c-for-programmers--ud210) 🧥
 
---------------------------------------------------------------------------------------------------------------------
-- **DAY 86 :** [Revise C upto Function](https://github.com/cleanhand/phase-1-Mayurishinde27/tree/main/Let%20us%20c) 🎢
+
 
 
 
