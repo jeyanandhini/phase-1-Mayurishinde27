@@ -64,26 +64,29 @@
  > ✔ [Why \0 is not making any difference in string ?](https://en.wikipedia.org/wiki/Null-terminated_string)
 
 ----------------------------------------------------------------------------------------------------------------------------
-  > ✔ [How enter is written in a computer?](https://en.wikipedia.org/wiki/Enter_key)
+  > ✔ [How enter is written in a computer?](https://en.wikipedia.org/wiki/Enter_key) 🖥
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-  > ✔ [How Compile time and runtime memory allocation works?](https://codeforwin.org/2018/05/compile-time-and-runtime-memory-allocation.html)
+  > ✔ [How Compile time and runtime memory allocation works?](https://codeforwin.org/2018/05/compile-time-and-runtime-memory-allocation.html) 🖼
 -------------------------------------------------------------------------------------------------------------------------------------
 
-  > ✔ [What is Foobar? ](https://www.freecodecamp.org/news/the-foobar-challenge-googles-hidden-test-for-developers-ed8027c1184/)
+  > ✔ [What is Foobar? ](https://www.freecodecamp.org/news/the-foobar-challenge-googles-hidden-test-for-developers-ed8027c1184/) 🐱‍👤
 
 -----------------------------------------------------------------------------------------------------------------------------------------
-  > ✔ [What is GNU?](https://www.gnu.org/home.en.html)
+  > ✔ [What is GNU?](https://www.gnu.org/home.en.html) 📴
 
 -----------------------------------------------------------------------------------------
-  > ✔ [What is Calloc malloc and realloc Function](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)
+  > ✔ [What is Calloc malloc and realloc Function](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)🔗
 
 -----------------------------------------------------------------------------------------------------------------------------------
  > ✔ [What is Agile methodology and Scrum](https://www.cprime.com/resources/what-is-agile-what-is-scrum/)🤔
 
 -------------------------------------------------------------------------------------------------------------------------------
-> ✔ [Why do people use indexing?](https://mbe.modelica.university/behavior/arrays/indexing/)
+> ✔ [Why do people use indexing?](https://mbe.modelica.university/behavior/arrays/indexing/)💿
 
 -----------------------------------------------------------------------------------------------------------------------------
-> ✔ [Why array index starts from zero ?](https://www.geeksforgeeks.org/why-array-index-starts-from-zero/)
+> ✔ [Why array index starts from zero ?](https://www.geeksforgeeks.org/why-array-index-starts-from-zero/) 💻
+-----------------------------------------------------------------------------------------------------------
+
+> ✔ [What is the difference between Recursion and Loops](https://www.javatpoint.com/recursion-vs-iteration) 🐌
