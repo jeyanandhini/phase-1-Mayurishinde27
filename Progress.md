@@ -250,6 +250,7 @@ and documented it on github.
  ------------------------------------------------------------------------------------------------------------------------------------------------
  
 - **DAY 75 :** Watched lecture on [Hashing](https://www.youtube.com/watch?v=vKKBq5JvPrw) 🎢
+  - Completed [Google Cloud 30 Day's Program](https://www.geeksforgeeks.org/a-beginners-guide-to-30-days-of-google-cloud-program/) 🦸‍♂️
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 - **DAY 76 :** Read about [Image processing](https://en.wikipedia.org/wiki/Digital_image_processing) 🖼 
