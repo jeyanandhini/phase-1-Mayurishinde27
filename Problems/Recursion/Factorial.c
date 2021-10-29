@@ -8,7 +8,9 @@ int fact(int n)
 	{
 		return 1; 
 	}
-	return n*fact(n-1);
+	int k=fact(n-1);
+	int c=n*k;
+	return c;
 }
 
 int main()
