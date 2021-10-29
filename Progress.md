@@ -292,7 +292,7 @@ and documented it on github.
 - **DAY 86 :** Started [Recursion](https://www.programiz.com/c-programming/c-recursion) 🛹
 
 --------------------------------------------------------------------------------------------------------------------
-- **DAY 87 :** Did code for to [find a Factorial of a number!](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Problems/Recursion/Factorial.c) 🚄
+- **DAY 87 :** Did code for [finding a Factorial of a number!](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Problems/Recursion/Factorial.c) 🚄
   - Tried a code for [Fibonacci Series](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Problems/Recursion/FibonacciSerie.c) 💯
 
 
