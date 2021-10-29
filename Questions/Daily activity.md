@@ -90,3 +90,7 @@
 -----------------------------------------------------------------------------------------------------------
 
 > ✔ [What is the difference between Recursion and Loops](https://www.javatpoint.com/recursion-vs-iteration) 🐌
+
+-----------------------------------------------------------------------------------------------------------
+
+> ✔ [Why we find factorial of number what is it's use in real life?](https://math.answers.com/Q/What_can_factorials_be_used_for_in_real_life)➗
