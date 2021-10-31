@@ -32,7 +32,7 @@
 | [DAY22](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Typing%20Speed/Speed/28oct2021.md) | 96% |36wpm
 | [DAY23](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Typing%20Speed/Speed/29oct2021.md) | 97% |35wpm
 | [DAY24](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Typing%20Speed/Speed/30oct2021.md) | 97% |36wpm
-| [DAY25]() |  |
+| [DAY25](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Typing%20Speed/Speed/31oct2021.md) | 96% |35wpm
 
 
 
