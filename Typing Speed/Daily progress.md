@@ -34,6 +34,15 @@
 | [DAY24](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Typing%20Speed/Speed/30oct2021.md) | 97% |36wpm
 | [DAY25](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Typing%20Speed/Speed/31oct2021.md) | 96% |35wpm
 
+-------------------------------------------------------------------------------------------------------------------------
 
+  |  NOVEMBER 👨‍💻  |  
+  |--------------|  
+
+-------------------------------------------------------------------------------------------------------------------------
+
+|  📆  | `Accuracy `| `Typing Speed` |  
+|------|----------|---------------| 
+| [DAY26](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Typing%20Speed/Speed/November/1Nov2021.md)  | 97% |36wpm
 
 
