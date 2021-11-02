@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/85113641/134770246-2495befd-f971-422b-b36e-132e6270581a.png) 
 
 
-## [Twitter Academy](https://twitteracademy22.splashthat.com/) ⛳
+## [Twitter Academy](https://twitteracademy2022.splashthat.com/) ⛳
 
 ---------------------------------------------------------------------------------------------------------
 > 🎟 Twitter Academy is a paid 12-week summer internship program **for second-year computer** science students. 
