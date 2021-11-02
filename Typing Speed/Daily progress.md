@@ -44,5 +44,6 @@
 |  📆  | `Accuracy `| `Typing Speed` |  
 |------|----------|---------------| 
 | [DAY26](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Typing%20Speed/Speed/November/1Nov2021.md)  | 97% |36wpm
+| [DAY27](https://github.com/cleanhand/phase-1-Mayurishinde27/blob/main/Typing%20Speed/Speed/November/2Nov2021.md)  | 96% |38wpm
 
 
